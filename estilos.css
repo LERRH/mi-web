@@ -1,0 +1,44 @@
+/* Estilos generales de la página */
+body {
+    font-family: Calibri, Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Título principal */
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+/* Menú de navegación */
+nav {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 6px;
+}
+
+/* Sección de servicios */
+section {
+    background-color: white;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 6px;
+}
+
+h2 {
+    color: navy;
+}
+
+/* Pie de página */
+footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #666666;
+}
